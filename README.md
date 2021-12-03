@@ -1,7 +1,7 @@
 # CP-Graph-Series
 
-## This is the complete graph series for Competitive Progarmming Guide it will help to clear your fundamentals and Data Strutures advanced concepts too.
-## The algorithms are available with complete dry run code with Java and c++ Programming Language.
+## This is the complete Graph Series for Competitive Progarmming Guide it will help to clear your Fundamentals and Data Strutures Advanced concepts too.
+## The algorithms are available with complete Dry Run Code with Java and C++ Programming Language.
 
 ## It covers Algo like 
 1. Prims Algorithm
