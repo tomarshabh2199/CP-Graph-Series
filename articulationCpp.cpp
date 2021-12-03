@@ -1,4 +1,8 @@
 #include<bits/stdc++.h>
+#include<iostream>
+#include<algorithm>
+#include<vector>
+
 using namespace std;
 
 void dfs(int node, int parent, vector<int> & vis, vector<int> &tin, vector<int> &low, int &timer, vector<int> adj[], vector<int> &isArticulation){
