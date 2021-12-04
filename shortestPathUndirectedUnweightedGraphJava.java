@@ -1,5 +1,6 @@
-import java.lang.*;
+import java.util.*;
 import java.io.*;
+import java.lang.*;
 
 private void shortestPath(ArrayList<ArrayList<Integer>> adj, int N, int src ){
     int[] dist=new int[N];
