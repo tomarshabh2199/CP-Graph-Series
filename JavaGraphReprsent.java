@@ -1,4 +1,7 @@
-import java.io;
+import java.util.*;
+import java.io.*;
+
+
 class GFG{
     public static void main(String[] args) {
         int n=3, m=3;
