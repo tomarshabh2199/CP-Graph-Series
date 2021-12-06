@@ -1,4 +1,8 @@
 #include<bits/stdc++.h>
+#include<iostream>
+#include<algorithm>
+#include<vector>
+
 using namespace std;
 
 bool bipartiteBfs(int src, vector<int> adj[], int color[]){

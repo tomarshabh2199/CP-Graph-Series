@@ -1,4 +1,7 @@
 #include<bits/stc++.h>
+#include<algorithm>
+#include<vector>
+
 using namespace std;
 
 void dfs(int node, stack<int> &st, vector<int> &vis, vector<int> adj[]){

@@ -2,6 +2,8 @@
 #include<iostream>
 #include<algorithm>
 
+using namespace std;
+
 void BFS(vector<int> adj[], int N, int src){
     int dist[N];
     for(int i = 0; i < N; i++)

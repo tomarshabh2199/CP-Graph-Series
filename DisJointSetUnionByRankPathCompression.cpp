@@ -1,3 +1,11 @@
+#include<bits/stdc++.h>
+#include<iostream>
+#include<algorithm>
+#include<vector>
+
+using namespace std;
+
+
 int parent[100000];
 int rank[100000];
 

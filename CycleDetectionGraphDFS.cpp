@@ -1,3 +1,8 @@
+#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
+using namespace std;
+
 class Solution{
     public:
          bool checkForCycle(int node, int parent, vector<int> &vis, vector<int> adj[]){ 

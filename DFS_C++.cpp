@@ -1,3 +1,9 @@
+#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
+
+using namespace std;
+
 class Solution{
     void dfs(int node, vector<int>&vis, vector<int> adj[], vector<int> &storeDfs){
         storeDfs.push(node);

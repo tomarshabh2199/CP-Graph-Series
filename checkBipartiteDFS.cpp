@@ -1,4 +1,8 @@
 #include<bits/stdc++.h>
+#include<iostream>
+#include<algorithm>
+#include<vector>
+
 using namespace std;
 
 bool bipartiteDfs(int node, vector<int> adj[], int color[]){
